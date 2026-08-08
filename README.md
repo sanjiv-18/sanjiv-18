@@ -3,14 +3,14 @@ Hi 👋, I'm Sanjiv V
 </h1>
 
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Sanjiv+V;Computer+Science+Student;Exploring+AI+%26+Machine+Learning;Software+Development+Enthusiast;Problem+Solver;Building+Real+World+Projects">
+</p>
+
+
 <h3 align="center">
 Computer Science Student | Exploring AI, Machine Learning & Software Development
 </h3>
-
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Explorer;Software+Development+Enthusiast;Problem+Solver;Building+Real+World+Projects;Exploring+Artificial+Intelligence">
-</p>
 
 
 ---
@@ -86,7 +86,6 @@ Features:
 - AI-based detection concept
 - Real-world application focus
 
-
 Technologies:
 
 ```
@@ -104,7 +103,6 @@ Features:
 - Student interaction
 - Resource sharing
 - Activity tracking
-
 
 Technologies:
 
@@ -220,7 +218,5 @@ Achievements:
 
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=sanjiv-18&label=Profile%20Views&color=blue&style=flat"/>
-
 </p>

@@ -14,9 +14,18 @@ Machine Learning Explorer • Problem Solver • Building Real World Projects
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Sanjiv V**, a Computer Science student interested in **Artificial Intelligence, Machine Learning, and Software Development**.
+Hello! I'm **Sanjiv V**, a Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Software Development**.
 
-I enjoy learning new technologies, solving programming problems, and building practical projects.
+I enjoy solving problems, improving my programming skills, and building practical applications.
+
+Currently exploring:
+
+- Machine Learning Fundamentals
+- Data Structures & Algorithms
+- Python Programming
+- Software Development
+- Web Development
+
 
 ---
 
@@ -29,11 +38,12 @@ I enjoy learning new technologies, solving programming problems, and building pr
 - C
 - C++
 
-### AI & Data
+### AI & Data Science
 
 - Machine Learning Basics
 - NumPy
 - Data Processing Basics
+- Statistical Concepts
 
 ### Web Technologies
 
@@ -46,6 +56,7 @@ I enjoy learning new technologies, solving programming problems, and building pr
 - GitHub
 - VS Code
 
+
 ---
 
 ## 🚀 Projects
@@ -54,59 +65,77 @@ I enjoy learning new technologies, solving programming problems, and building pr
 
 AI-based workplace safety monitoring concept.
 
-**Tech:**
+**Technologies:**
+```
 Python • Machine Learning Basics
+```
 
 
 ### 🌐 Student Community Portal
 
 A platform for students to collaborate and share resources.
 
-**Tech:**
+**Technologies:**
+```
 HTML • CSS • JavaScript
+```
 
 
 ### 🧾 Handwritten Invoice Extraction
 
-Document processing project using Python.
+A document processing project using Python.
 
-**Tech:**
+**Technologies:**
+```
 Python • OCR Concepts
+```
+
 
 ---
 
 ## 🏆 Achievements
 
-- 🥈 CodeChef Problem Solver Silver Badge
-- 🔥 451+ Problems Solved on CodeChef
-- 💻 20+ Problems Solved on LeetCode
+- CodeChef Problem Solver Silver Badge
+- 451+ Problems Solved on CodeChef
+- 20+ Problems Solved on LeetCode
+
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Competitive Programming
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sanjiv-18&show_icons=true&theme=tokyonight"/>
-</p>
+CodeChef:
+- 451+ Problems Solved
+
+LeetCode:
+- 20+ Problems Solved
+
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+GitHub:
+https://github.com/sanjiv-18
 
-<a href="https://github.com/sanjiv-18">
-<img src="https://img.shields.io/badge/GitHub-sanjiv--18-black?style=for-the-badge&logo=github">
-</a>
+LinkedIn:
+https://www.linkedin.com/in/sanjivv
 
-<a href="https://www.linkedin.com/in/sanjivv">
-<img src="https://img.shields.io/badge/LinkedIn-Sanjiv%20V-blue?style=for-the-badge&logo=linkedin">
-</a>
 
-</p>
+---
+
+## 📌 Currently Working On
+
+- Improving Machine Learning fundamentals
+- Practicing Data Structures & Algorithms
+- Building software projects
+- Exploring AI applications
+
 
 ---
 
 <p align="center">
+
 "Turning ideas into code and building solutions that create impact."
+
 </p>

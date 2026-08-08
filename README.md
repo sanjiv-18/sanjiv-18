@@ -1,17 +1,16 @@
-<!-- Header Banner -->
-
+<!-- AI Coding Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Sanjiv%20V&fontSize=75&fontAlignY=35&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:8E2DE2&height=220&section=header&text=Sanjiv%20V&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20Software%20Development&descAlignY=55"/>
 </p>
 
 
 <h3 align="center">
-Computer Science Student | AI & Machine Learning Enthusiast | Software Developer
+Exploring AI, Machine Learning & Building Real World Applications
 </h3>
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Machine+Learning+Explorer;Data+Driven+Problem+Solver;Building+AI+Applications;Always+Learning+%26+Improving">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Explorer;Problem+Solver;Computer+Science+Student;Building+Projects+with+Code">
 </p>
 
 
@@ -19,18 +18,18 @@ Computer Science Student | AI & Machine Learning Enthusiast | Software Developer
 
 # 👨‍💻 About Me
 
-Hello! I'm **Sanjiv V**, a Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Software Development**.
+Hello! I'm **Sanjiv V**, a Computer Science student passionate about **Artificial Intelligence, Machine Learning Fundamentals, and Software Development**.
 
-I enjoy building practical solutions by combining programming, data, and intelligent systems.
+I enjoy building practical solutions through programming, problem solving, and exploring new technologies.
 
 Currently exploring:
 
-- Machine Learning Algorithms
-- Deep Learning
-- Computer Vision
-- Data Analytics
-- Full Stack Development
+- Machine Learning Fundamentals
 - Data Structures & Algorithms
+- Python Programming
+- Data Analysis Basics
+- Web Development
+- Software Development Practices
 
 
 ---
@@ -38,39 +37,37 @@ Currently exploring:
 # 🛠 Technical Skills
 
 
-### Languages
+## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp"/>
 </p>
 
 
-### AI & Data Science
+## 🤖 AI & Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 </p>
 
-- Machine Learning
-- Deep Learning
-- Data Analysis
+- Machine Learning Basics
+- Python Programming
 - NumPy
-- Pandas
-- Matplotlib
-- Scikit-Learn
+- Data Processing Basics
+- Statistical Concepts
 
 
-### Web Technologies
+## 🌐 Web Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mongodb"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
 </p>
 
 
-### Tools & Platforms
+## 🛠 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=github,vscode"/>
 </p>
 
 
@@ -81,16 +78,19 @@ Currently exploring:
 
 ## 🛡 VisionGuard AI
 
-**AI-based workplace safety monitoring system using Computer Vision**
+**AI-based workplace safety monitoring concept**
+
+A project idea focused on using intelligent systems for workplace safety monitoring.
 
 Features:
-- Real-time safety monitoring
-- Object detection
-- AI-based alerts
+- Safety monitoring concept
+- AI-based detection approach
+- Real-world application focus
 
 Technologies:
+
 ```
-Python • OpenCV • Machine Learning • Computer Vision
+Python • Machine Learning Basics
 ```
 
 
@@ -100,9 +100,15 @@ Python • OpenCV • Machine Learning • Computer Vision
 
 **A collaborative platform designed for students to share resources and track activities.**
 
+Features:
+- Student collaboration
+- Resource sharing
+- Activity tracking
+
 Technologies:
+
 ```
-HTML • CSS • JavaScript • React
+HTML • CSS • JavaScript
 ```
 
 
@@ -110,11 +116,12 @@ HTML • CSS • JavaScript • React
 
 ## 🧾 Handwritten Invoice Extraction
 
-**AI-powered document processing system for extracting information from handwritten invoices.**
+**A document processing project exploring extraction of information from handwritten documents.**
 
 Technologies:
+
 ```
-Python • OCR • Deep Learning
+Python • OCR Concepts
 ```
 
 
@@ -125,9 +132,9 @@ Python • OCR • Deep Learning
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/CodeChef-451%20Problems%20Solved-brown?style=for-the-badge&logo=codechef"/>
+<img src="https://img.shields.io/badge/CodeChef-451%2B%20Problems%20Solved-brown?style=for-the-badge&logo=codechef"/>
 
-<img src="https://img.shields.io/badge/LeetCode-20%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-20%2B%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode"/>
 
 </p>
 
@@ -135,8 +142,8 @@ Python • OCR • Deep Learning
 Achievements:
 
 - 🥈 CodeChef Problem Solver Silver Badge
-- 451+ CodeChef Problems Solved
-- 20+ LeetCode Problems Solved
+- 🔥 451+ CodeChef Problems Solved
+- 💻 20+ LeetCode Problems Solved
 
 
 ---
@@ -153,6 +160,11 @@ Achievements:
 </p>
 
 
+---
+
+# 🔥 GitHub Streak
+
+
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjiv-18&theme=tokyonight&hide_border=true"/>
@@ -165,7 +177,7 @@ Achievements:
 # 📈 Contribution Activity
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjiv-18&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjiv-18&theme=react-dark&hide_border=true"/>
 
 
 ---
@@ -179,9 +191,11 @@ Achievements:
 <img src="https://img.shields.io/badge/GitHub-sanjiv--18-black?style=for-the-badge&logo=github"/>
 </a>
 
+
 <a href="https://www.linkedin.com/in/sanjivv">
 <img src="https://img.shields.io/badge/LinkedIn-Sanjiv%20V-blue?style=for-the-badge&logo=linkedin"/>
 </a>
+
 
 </p>
 
@@ -190,23 +204,21 @@ Achievements:
 
 # 📌 Currently Working On
 
-- Improving Machine Learning skills
-- Building AI-based applications
+- Improving Machine Learning fundamentals
 - Practicing Data Structures & Algorithms
-- Creating impactful software projects
+- Building software projects
+- Exploring AI applications
 
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sanjiv-18&label=Profile%20Views&color=blue&style=flat"/>
+"Turning ideas into code and building solutions that create impact."
 
 </p>
 
 
-<h3 align="center">
-
-"Turning data into insights, and ideas into intelligent solutions."
-
-</h3>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sanjiv-18&label=Profile%20Views&color=blue&style=flat"/>
+</p>

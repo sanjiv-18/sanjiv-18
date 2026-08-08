@@ -1,16 +1,22 @@
-<!-- AI Coding Banner -->
+<!-- AI Developer Banner -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:8E2DE2&height=220&section=header&text=Sanjiv%20V&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20Software%20Development&descAlignY=55"/>
+  <img src="./assets/banner.png" width="100%" alt="Sanjiv V AI Developer Banner"/>
 </p>
 
 
+<h1 align="center">
+Hi 👋, I'm Sanjiv V
+</h1>
+
+
 <h3 align="center">
-Exploring AI, Machine Learning & Building Real World Applications
+Computer Science Student | Exploring AI, Machine Learning & Software Development
 </h3>
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Explorer;Problem+Solver;Computer+Science+Student;Building+Projects+with+Code">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Explorer;Problem+Solver;Software+Development+Enthusiast;Building+Real+World+Projects">
 </p>
 
 
@@ -20,16 +26,16 @@ Exploring AI, Machine Learning & Building Real World Applications
 
 Hello! I'm **Sanjiv V**, a Computer Science student passionate about **Artificial Intelligence, Machine Learning Fundamentals, and Software Development**.
 
-I enjoy building practical solutions through programming, problem solving, and exploring new technologies.
+I enjoy solving problems, learning new technologies, and building practical applications.
 
 Currently exploring:
 
 - Machine Learning Fundamentals
 - Data Structures & Algorithms
 - Python Programming
-- Data Analysis Basics
+- Software Development
 - Web Development
-- Software Development Practices
+- Problem Solving
 
 
 ---
@@ -76,16 +82,17 @@ Currently exploring:
 # 🚀 Featured Projects
 
 
-## 🛡 VisionGuard AI
+## 🛡️ VisionGuard AI
 
 **AI-based workplace safety monitoring concept**
 
-A project idea focused on using intelligent systems for workplace safety monitoring.
+A project focused on exploring intelligent systems for workplace safety.
 
 Features:
-- Safety monitoring concept
-- AI-based detection approach
-- Real-world application focus
+- Safety monitoring approach
+- AI-based detection concept
+- Real-world application
+
 
 Technologies:
 
@@ -98,12 +105,13 @@ Python • Machine Learning Basics
 
 ## 🌐 Student Community Portal
 
-**A collaborative platform designed for students to share resources and track activities.**
+**A platform designed for students to collaborate and share resources.**
 
 Features:
-- Student collaboration
+- Student interaction
 - Resource sharing
 - Activity tracking
+
 
 Technologies:
 
@@ -116,7 +124,7 @@ HTML • CSS • JavaScript
 
 ## 🧾 Handwritten Invoice Extraction
 
-**A document processing project exploring extraction of information from handwritten documents.**
+**A document processing project exploring handwritten text extraction.**
 
 Technologies:
 
@@ -195,7 +203,6 @@ Achievements:
 <a href="https://www.linkedin.com/in/sanjivv">
 <img src="https://img.shields.io/badge/LinkedIn-Sanjiv%20V-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-
 
 </p>
 

@@ -9,7 +9,7 @@ Computer Science Student | Exploring AI, Machine Learning & Software Development
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Explorer;Software+Development+Enthusiast;Problem+Solver;Building+Real+World+Projects">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Explorer;Software+Development+Enthusiast;Problem+Solver;Building+Real+World+Projects;Exploring+Artificial+Intelligence">
 </p>
 
 
@@ -84,7 +84,7 @@ A project focused on exploring intelligent systems for workplace safety.
 Features:
 - Safety monitoring approach
 - AI-based detection concept
-- Real-world application
+- Real-world application focus
 
 
 Technologies:
@@ -215,5 +215,12 @@ Achievements:
 <p align="center">
 
 "Turning ideas into code and building solutions that create impact."
+
+</p>
+
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sanjiv-18&label=Profile%20Views&color=blue&style=flat"/>
 
 </p>

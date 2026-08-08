@@ -8,12 +8,11 @@
 
 <br/>
 
-<a href="https://github.com/sanjiv-18"><img src="https://img.shields.io/badge/GitHub-sanjiv--18-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sanjivv"><img src="https://img.shields.io/badge/LinkedIn-sanjivv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/sanjiv-18"><img src="https://img.shields.io/badge/-sanjiv--18-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0d1117"/></a>
+<a href="https://www.linkedin.com/in/sanjivv"><img src="https://img.shields.io/badge/-sanjivv-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0d1117"/></a>
+<img src="https://komarev.com/ghpvc/?username=sanjiv-18&label=Profile+Views&color=0d1117&style=for-the-badge" alt="Profile views"/>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=sanjiv-18&label=Profile%20Views&color=302b63&style=flat" alt="Profile views"/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=3&section=header&width=100%25"/>
 
@@ -36,21 +35,27 @@ I'm currently focused on strengthening my programming fundamentals, data structu
 
 ## Technical Skills
 
+<div align="center">
+
 **Programming Languages**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" /><br/><br/>
 
 **Web Technologies**
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-**AI & Data Science**
-
-<img src="https://img.shields.io/badge/Machine%20Learning%20Basics-4B8BBE?style=flat-square"/> <img src="https://img.shields.io/badge/Python%20for%20Data%20Analysis-4B8BBE?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Data%20Processing%20Basics-4B8BBE?style=flat-square"/> <img src="https://img.shields.io/badge/Statistical%20Concepts-4B8BBE?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /><br/><br/>
 
 **Tools & Platforms**
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+**AI & Data Science**
+
+<img src="https://img.shields.io/badge/-Machine%20Learning%20Basics-0d1117?style=flat-square&labelColor=0d1117&color=58A6FF"/> <img src="https://img.shields.io/badge/-Python%20for%20Data%20Analysis-0d1117?style=flat-square&labelColor=0d1117&color=58A6FF"/> <img src="https://img.shields.io/badge/-NumPy-0d1117?style=flat-square&labelColor=0d1117&color=58A6FF&logo=numpy&logoColor=58A6FF"/> <img src="https://img.shields.io/badge/-Data%20Processing%20Basics-0d1117?style=flat-square&labelColor=0d1117&color=58A6FF"/> <img src="https://img.shields.io/badge/-Statistical%20Concepts-0d1117?style=flat-square&labelColor=0d1117&color=58A6FF"/>
 
 <br/>
 
@@ -127,21 +132,21 @@ An AI-based document processing project focused on extracting structured data fr
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjiv-18&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="70%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjiv-18&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="95%"/>
-
 </div>
 
 <br/>
 
-## Contribution Graph
+## Contribution Activity
 
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjiv-18&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="95%"/>
+
+<br/><br/>
+
 <img src="https://raw.githubusercontent.com/sanjiv-18/sanjiv-18/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Animated contribution snake"/>
 
-<sub>Animated snake graph — generated automatically via GitHub Actions (setup notes below)</sub>
+<sub>Animated snake — activates automatically once the workflow below runs (see setup note)</sub>
 
 </div>
 

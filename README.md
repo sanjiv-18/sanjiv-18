@@ -1,78 +1,51 @@
-<!-- Animated Banner -->
+<!-- Header Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:8E2DE2&height=250&section=header&text=Sanjiv%20V&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Problem%20Solver&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Sanjiv%20V&fontSize=75&fontAlignY=35&animation=fadeIn"/>
 </p>
 
 
-<h1 align="center">
-👋 Hi, I'm Sanjiv V
-</h1>
-
 <h3 align="center">
-🚀 Computer Science Student | AI & ML Enthusiast | Building Intelligent Solutions
+Computer Science Student | AI & Machine Learning Enthusiast | Software Developer
 </h3>
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Explorer;Machine+Learning+Enthusiast;Data+Driven+Problem+Solver;Building+Real+World+Projects;Always+Learning+New+Technologies">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Machine+Learning+Explorer;Data+Driven+Problem+Solver;Building+AI+Applications;Always+Learning+%26+Improving">
 </p>
 
 
 ---
 
-# 🤖 About Me
+# 👨‍💻 About Me
 
-```yaml
-Name: Sanjiv V
-Role: Computer Science Student
+Hello! I'm **Sanjiv V**, a Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Software Development**.
 
-Interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Science
-  - Software Development
+I enjoy building practical solutions by combining programming, data, and intelligent systems.
 
-Currently Learning:
-  - Deep Learning
-  - Computer Vision
-  - Data Structures & Algorithms
+Currently exploring:
 
-Goal:
-  Build impactful AI solutions for real-world problems 🚀
-```
+- Machine Learning Algorithms
+- Deep Learning
+- Computer Vision
+- Data Analytics
+- Full Stack Development
+- Data Structures & Algorithms
 
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/sanjiv-18">
-<img src="https://img.shields.io/badge/GitHub-sanjiv--18-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/sanjivv">
-<img src="https://img.shields.io/badge/LinkedIn-Sanjiv%20V-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-</p>
+# 🛠 Technical Skills
 
 
----
-
-# 🧠 Tech Stack
-
-
-## 👨‍💻 Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript"/>
 </p>
 
 
-## 🤖 AI / Machine Learning
+### AI & Data Science
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
@@ -80,19 +53,21 @@ Goal:
 
 - Machine Learning
 - Deep Learning
-- Computer Vision
-- Data Analytics
-- Statistics
+- Data Analysis
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
 
 
-## 🌐 Web Development
+### Web Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,mongodb"/>
 </p>
 
 
-## 🛠 Tools
+### Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
@@ -104,18 +79,18 @@ Goal:
 # 🚀 Featured Projects
 
 
-## 🛡️ VisionGuard AI
+## 🛡 VisionGuard AI
 
-> AI-based workplace safety monitoring system using Computer Vision.
+**AI-based workplace safety monitoring system using Computer Vision**
 
-**Features**
-- Real-time monitoring
+Features:
+- Real-time safety monitoring
 - Object detection
-- Safety violation detection
+- AI-based alerts
 
-**Tech**
+Technologies:
 ```
-Python | OpenCV | ML | Computer Vision
+Python • OpenCV • Machine Learning • Computer Vision
 ```
 
 
@@ -123,11 +98,11 @@ Python | OpenCV | ML | Computer Vision
 
 ## 🌐 Student Community Portal
 
-> A platform for students to connect, share resources and track activities.
+**A collaborative platform designed for students to share resources and track activities.**
 
-**Tech**
+Technologies:
 ```
-HTML | CSS | JavaScript | React
+HTML • CSS • JavaScript • React
 ```
 
 
@@ -135,120 +110,103 @@ HTML | CSS | JavaScript | React
 
 ## 🧾 Handwritten Invoice Extraction
 
-> AI system to extract information from handwritten documents.
+**AI-powered document processing system for extracting information from handwritten invoices.**
 
-**Tech**
+Technologies:
 ```
-Python | OCR | Deep Learning
+Python • OCR • Deep Learning
 ```
 
 
 ---
 
-# 🏆 Coding Achievements
+# 🏆 Competitive Programming
 
-
-## 🟤 CodeChef
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/CodeChef-451%20Problems%20Solved-brown?style=for-the-badge&logo=codechef"/>
-
-</p>
-
-🥈 Problem Solver Silver Badge
-
-
-<br>
-
-
-## 🟠 LeetCode
-
-<p align="center">
 
 <img src="https://img.shields.io/badge/LeetCode-20%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode"/>
 
 </p>
 
 
+Achievements:
+
+- 🥈 CodeChef Problem Solver Silver Badge
+- 451+ CodeChef Problems Solved
+- 20+ LeetCode Problems Solved
+
+
 ---
 
-# 📊 Coding Profile Cards
+# 📊 GitHub Analytics
 
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/sanjiv-18?theme=dark&font=baloo&ext=contest"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sanjiv-18&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjiv-18&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanjiv-18&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjiv-18&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 Contribution Activity
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjiv-18&theme=tokyo-night&hide_border=true"/>
+
+
+---
+
+# 🌐 Connect With Me
 
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjiv-18&theme=tokyonight"/>
+<a href="https://github.com/sanjiv-18">
+<img src="https://img.shields.io/badge/GitHub-sanjiv--18-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sanjivv">
+<img src="https://img.shields.io/badge/LinkedIn-Sanjiv%20V-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </p>
 
 
 ---
 
-# 📈 Contribution Graph
+# 📌 Currently Working On
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjiv-18&theme=react-dark"/>
-
-
----
-
-# 🏅 Achievements
-
-🏆 CodeChef Silver Badge  
-🔥 451+ Problems Solved  
-💻 LeetCode Problem Solver  
-🚀 Hackathon Participant  
-🤖 AI & ML Project Builder
+- Improving Machine Learning skills
+- Building AI-based applications
+- Practicing Data Structures & Algorithms
+- Creating impactful software projects
 
 
 ---
-
-# 💭 Developer Quote
-
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+<img src="https://komarev.com/ghpvc/?username=sanjiv-18&label=Profile%20Views&color=blue&style=flat"/>
 
 </p>
 
-
----
 
 <h3 align="center">
 
-⭐ "Turning Data into Intelligence, and Ideas into Impact" ⭐
+"Turning data into insights, and ideas into intelligent solutions."
 
 </h3>
-
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sanjiv-18&label=Profile%20Views&color=blue&style=flat"/>
-</p>
-
-
-<!-- Footer -->
-
-<p align="center">
-🚀 Thanks for visiting my profile!
-</p>

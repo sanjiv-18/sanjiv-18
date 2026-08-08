@@ -1,11 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sanjiv%20V&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Exploring%20AI,%20Machine%20Learning%20&%20Software%20Development&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Sanjiv+V" alt="Typing SVG - name"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2500&pause=700&color=9CA3AF&center=true&vCenter=true&width=650&height=40&lines=Computer+Science+Student;Exploring+AI+%26+Machine+Learning;Building+Real-World+Software" alt="Typing SVG - roles"/>
 
 <br/>
 
 <a href="https://github.com/sanjiv-18"><img src="https://img.shields.io/badge/GitHub-sanjiv--18-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sanjivv"><img src="https://img.shields.io/badge/LinkedIn-sanjivv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sanjiv-18&label=Profile%20Views&color=302b63&style=flat" alt="Profile views"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=3&section=header&width=100%25"/>
 
 </div>
 
@@ -125,6 +135,18 @@ An AI-based document processing project focused on extracting structured data fr
 
 <br/>
 
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sanjiv-18/sanjiv-18/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Animated contribution snake"/>
+
+<sub>Animated snake graph — generated automatically via GitHub Actions (setup notes below)</sub>
+
+</div>
+
+<br/>
+
 <div align="center">
 
 *"Turning ideas into code and building solutions that create impact."*
@@ -132,3 +154,11 @@ An AI-based document processing project focused on extracting structured data fr
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 
 </div>
+
+<!--
+Setup note for the animated snake contribution graph:
+1. In your sanjiv-18/sanjiv-18 repo, add the file .github/workflows/snake.yml (provided separately).
+2. Push it to the main branch — GitHub Actions will run daily and generate the animated SVG
+   at the "output" branch automatically.
+3. The <img> tag above already points to the correct raw URL once that branch exists.
+-->

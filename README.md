@@ -1,91 +1,137 @@
-<h1 align="center">
-Hi 👋, I'm Sanjiv V
-</h1>
+<h3 align="center">
+Computer Science Student | AI & Software Development Enthusiast
+</h3>
 
 <p align="center">
-Computer Science Student | Exploring AI, Machine Learning & Software Development
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2500&pause=1000&color=8B7BFF&center=true&vCenter=true&width=700&lines=Hi+I'm+Sanjiv+V;AI+%26+Machine+Learning+Explorer;Passionate+Learner;Problem+Solver;Building+Real+World+Projects">
 </p>
+
+
+---
+
+# 🚀 About Me
+
+- 🎓 Computer Science Student
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🐍 Working with Python for projects and experiments
+- 💡 Interested in problem solving and software development
+- 🚀 Passionate about building real-world applications
+
+
+---
+
+# 🤝 Connect With Me
+
 
 <p align="center">
-Machine Learning Explorer • Problem Solver • Building Real World Projects
+
+<a href="https://github.com/sanjiv-18">
+<img src="https://img.shields.io/badge/GitHub-sanjiv--18-181717?style=for-the-badge&logo=github">
+</a>
+
+
+<a href="https://www.linkedin.com/in/sanjivv">
+<img src="https://img.shields.io/badge/LinkedIn-Sanjiv%20V-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Sanjiv-orange?style=for-the-badge&logo=leetcode">
+</a>
+
 </p>
 
----
-
-## 👨‍💻 About Me
-
-Hello! I'm **Sanjiv V**, a Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Software Development**.
-
-I enjoy solving problems, improving my programming skills, and building practical applications.
-
-Currently exploring:
-
-- Machine Learning Fundamentals
-- Data Structures & Algorithms
-- Python Programming
-- Software Development
-- Web Development
-
 
 ---
 
-## 🛠 Skills
+# 🛠 Languages and Tools
 
-### Programming Languages
 
-- Python
-- Java
-- C
-- C++
+<p align="center">
 
-### AI & Data Science
+Python • Java • C • C++ • HTML • CSS • JavaScript
 
-- Machine Learning Basics
-- NumPy
-- Data Processing Basics
-- Statistical Concepts
+</p>
 
-### Web Technologies
 
-- HTML
-- CSS
-- JavaScript
+<p align="center">
 
-### Tools
+GitHub • VS Code • NumPy
 
-- GitHub
-- VS Code
+</p>
 
 
 ---
 
-## 🚀 Projects
+# 📊 GitHub Stats
 
-### 🛡 VisionGuard AI
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sanjiv-18&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+---
+
+# 🔥 GitHub Streak
+
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sanjiv-18&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+---
+
+# 🧩 Competitive Programming
+
+
+- 🥈 CodeChef Problem Solver Silver Badge
+- 🔥 451+ Problems Solved on CodeChef
+- 💻 20+ Problems Solved on LeetCode
+
+
+---
+
+# 🚀 Featured Projects
+
+
+## 🛡 VisionGuard AI
 
 AI-based workplace safety monitoring concept.
 
-**Technologies:**
+**Tech Stack**
+
 ```
 Python • Machine Learning Basics
 ```
 
 
-### 🌐 Student Community Portal
+---
+
+## 🌐 Student Community Portal
 
 A platform for students to collaborate and share resources.
 
-**Technologies:**
+**Tech Stack**
+
 ```
 HTML • CSS • JavaScript
 ```
 
 
-### 🧾 Handwritten Invoice Extraction
+---
 
-A document processing project using Python.
+## 🧾 Handwritten Invoice Extraction
 
-**Technologies:**
+Document processing project using Python.
+
+**Tech Stack**
+
 ```
 Python • OCR Concepts
 ```
@@ -93,43 +139,14 @@ Python • OCR Concepts
 
 ---
 
-## 🏆 Achievements
-
-- CodeChef Problem Solver Silver Badge
-- 451+ Problems Solved on CodeChef
-- 20+ Problems Solved on LeetCode
+# 📈 GitHub Activity Graph
 
 
----
+<p align="center">
 
-## 💻 Competitive Programming
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjiv-18&theme=tokyo-night&hide_border=true">
 
-CodeChef:
-- 451+ Problems Solved
-
-LeetCode:
-- 20+ Problems Solved
-
-
----
-
-## 🌐 Connect With Me
-
-GitHub:
-https://github.com/sanjiv-18
-
-LinkedIn:
-https://www.linkedin.com/in/sanjivv
-
-
----
-
-## 📌 Currently Working On
-
-- Improving Machine Learning fundamentals
-- Practicing Data Structures & Algorithms
-- Building software projects
-- Exploring AI applications
+</p>
 
 
 ---

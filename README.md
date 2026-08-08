@@ -4,7 +4,7 @@ Hi 👋, I'm Sanjiv V
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Sanjiv+V;Computer+Science+Student;Exploring+AI+%26+Machine+Learning;Software+Development+Enthusiast;Problem+Solver;Building+Real+World+Projects">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Sanjiv+V;Computer+Science+Student;AI+%26+Machine+Learning+Explorer;Software+Development+Enthusiast;Problem+Solver;Building+Real+World+Projects">
 </p>
 
 
@@ -15,11 +15,11 @@ Computer Science Student | Exploring AI, Machine Learning & Software Development
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-Hello! I'm **Sanjiv V**, a Computer Science student passionate about **Artificial Intelligence, Machine Learning Fundamentals, and Software Development**.
+Hello! I'm **Sanjiv V**, a Computer Science student passionate about **Artificial Intelligence, Machine Learning fundamentals, and Software Development**.
 
-I enjoy solving problems, learning new technologies, and building practical applications.
+I enjoy solving programming problems, learning new technologies, and building practical applications.
 
 Currently exploring:
 
@@ -33,21 +33,24 @@ Currently exploring:
 
 ---
 
-# 🛠 Technical Skills
+# 🛠️ Technical Skills
 
 
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
+</p>
+
+
+## 🌐 Web Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
 
 ## 🤖 AI & Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
 
 - Machine Learning Basics
 - Python Programming
@@ -56,17 +59,10 @@ Currently exploring:
 - Statistical Concepts
 
 
-## 🌐 Web Technologies
+## 🧰 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
-</p>
-
-
-## 🛠 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=github,vscode"/>
+<img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
 
@@ -77,16 +73,14 @@ Currently exploring:
 
 ## 🛡️ VisionGuard AI
 
-**AI-based workplace safety monitoring concept**
+AI-based workplace safety monitoring concept.
 
-A project focused on exploring intelligent systems for workplace safety.
-
-Features:
-- Safety monitoring approach
+**Highlights**
+- Intelligent safety monitoring approach
 - AI-based detection concept
 - Real-world application focus
 
-Technologies:
+**Tech Stack**
 
 ```
 Python • Machine Learning Basics
@@ -97,14 +91,14 @@ Python • Machine Learning Basics
 
 ## 🌐 Student Community Portal
 
-**A platform designed for students to collaborate and share resources.**
+A platform designed for students to collaborate and share resources.
 
-Features:
+**Highlights**
 - Student interaction
 - Resource sharing
 - Activity tracking
 
-Technologies:
+**Tech Stack**
 
 ```
 HTML • CSS • JavaScript
@@ -115,9 +109,9 @@ HTML • CSS • JavaScript
 
 ## 🧾 Handwritten Invoice Extraction
 
-**A document processing project exploring handwritten text extraction.**
+A document processing project exploring handwritten text extraction.
 
-Technologies:
+**Tech Stack**
 
 ```
 Python • OCR Concepts
@@ -131,18 +125,18 @@ Python • OCR Concepts
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/CodeChef-451%2B%20Problems%20Solved-brown?style=for-the-badge&logo=codechef"/>
+<img src="https://img.shields.io/badge/CodeChef-451%2B%20Solved-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/LeetCode-20%2B%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-20%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </p>
 
 
 Achievements:
 
-- 🥈 CodeChef Problem Solver Silver Badge
-- 🔥 451+ CodeChef Problems Solved
-- 💻 20+ LeetCode Problems Solved
+- CodeChef Problem Solver Silver Badge
+- 451+ Problems Solved on CodeChef
+- 20+ Problems Solved on LeetCode
 
 
 ---
@@ -152,21 +146,14 @@ Achievements:
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sanjiv-18&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjiv-18&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sanjiv-18&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 
----
-
-# 🔥 GitHub Streak
-
-
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjiv-18&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sanjiv-18&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -176,7 +163,11 @@ Achievements:
 # 📈 Contribution Activity
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjiv-18&theme=react-dark&hide_border=true"/>
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjiv-18&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 
 ---
@@ -187,12 +178,15 @@ Achievements:
 <p align="center">
 
 <a href="https://github.com/sanjiv-18">
-<img src="https://img.shields.io/badge/GitHub-sanjiv--18-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Sanjiv--18-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 
+&nbsp;
+
+
 <a href="https://www.linkedin.com/in/sanjivv">
-<img src="https://img.shields.io/badge/LinkedIn-Sanjiv%20V-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Sanjiv%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -218,5 +212,7 @@ Achievements:
 
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=sanjiv-18&label=Profile%20Views&color=blue&style=flat"/>
+
 </p>

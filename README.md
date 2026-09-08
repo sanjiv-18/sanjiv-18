@@ -1,158 +1,69 @@
-<h3 align="center">
-Computer Science Student | AI & Software Development Enthusiast
-</h3>
+<h1 align="center">Hi, I'm Sanjiv 👋</h1>
+<h3 align="center">AI & Data Science Undergrad · Building Agentic Systems & Full-Stack Products</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2500&pause=1000&color=8B7BFF&center=true&vCenter=true&width=700&lines=Hi+I'm+Sanjiv+V;AI+%26+Machine+Learning+Explorer;Passionate+Learner;Problem+Solver;Building+Real+World+Projects">
+  <a href="https://linkedin.com/in/sanjivv"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sanjiv-18"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+---
+
+### 🚀 About Me
+
+- 🎓 B.Tech, Artificial Intelligence & Data Science — Bannari Amman Institute of Technology, Sathyamangalam
+- 📄 **Patent filed:** AI-Based Smart Irrigation and Nutrient Management System
+- 🤖 Building **multi-agent AI pipelines** — patent research automation, hackathon mentoring, software testing & bug triage
+- 🧠 Working across **computer vision (YOLO)**, **RAG systems (ChromaDB)**, and **agentic architectures**
+- 🏆 Active hackathon builder — HackZen, Tech Nova, FOSS Open Hack, and institutional GP Challenge/IIC initiatives
+- 🌱 Currently deepening my work on autonomous multi-agent systems and production-grade full-stack apps
 
 ---
 
-# 🚀 About Me
+### 🛠 Tech Stack
 
-- 🎓 Computer Science Student
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🐍 Working with Python for projects and experiments
-- 💡 Interested in problem solving and software development
-- 🚀 Passionate about building real-world applications
+**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
+**Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Data:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**AI/ML:** ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) YOLOv8 · ChromaDB (RAG) · Anthropic Claude API · TF-IDF / Prior-Art Search
+
+**Tools:** ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-# 🤝 Connect With Me
+### 🚀 Featured Projects
 
+| Project | Description | Stack |
+|---|---|---|
+| 🧠 **Agentic Patent/Research Assistant** | Four-agent pipeline — Prior Art Search → Novelty Diff → Claim Drafter → Examiner Simulator — with live SSE progress streaming | Node.js, TypeScript, Express, Claude API, PatentsView, React |
+| 🐛 **Multi-Agent Software Testing & Bug Analysis Platform** | Collaborative platform for automated test analysis with role-based access and JWT auth | React, Vite, Node.js, Express |
+| 💬 **AskBIT / CampusIQ** | RAG-powered FAQ chatbot for campus queries, built offline-first with a calibrated confidence threshold | FastAPI, ChromaDB, SQLite, TF-IDF, React |
+| 🛡 **VisionGuard AI** | Real-time workplace safety monitoring with a continuous five-factor dynamic risk score | Python, YOLOv8 |
+| 📚 **LearnForge AI** | Large-scale adaptive learning platform driven by a custom "Knowledge Twin" algorithm | FastAPI, JWT, SQLAlchemy, React, ChromaDB |
+| 🌐 **Constellation** | Full-stack student community tracking portal — built Event & Collaboration Management modules | Node.js, Express, MongoDB, React, TypeScript |
+| 🌾 **AI-Based Smart Irrigation System** | Patent-filed system for automated irrigation and nutrient management | Python, ML |
+
+---
+
+### 🧩 Competitive Programming
+
+🥈 CodeChef Problem Solver (Silver) · 🔥 451+ problems solved on CodeChef · 💻 20+ problems solved on LeetCode
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-
-<a href="https://github.com/sanjiv-18">
-<img src="https://img.shields.io/badge/GitHub-sanjiv--18-181717?style=for-the-badge&logo=github">
-</a>
-
-
-<a href="https://www.linkedin.com/in/sanjivv">
-<img src="https://img.shields.io/badge/LinkedIn-Sanjiv%20V-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Sanjiv-orange?style=for-the-badge&logo=leetcode">
-</a>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjiv-18&show_icons=true&theme=radical"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjiv-18&theme=radical"/>
 </p>
-
-
----
-
-# 🛠 Languages and Tools
-
 
 <p align="center">
-
-Python • Java • C • C++ • HTML • CSS • JavaScript
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjiv-18&theme=react-dark"/>
 </p>
 
-
-<p align="center">
-
-GitHub • VS Code • NumPy
-
-</p>
-
-
 ---
 
-# 📊 GitHub Stats
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sanjiv-18&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
----
-
-# 🔥 GitHub Streak
-
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sanjiv-18&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
----
-
-# 🧩 Competitive Programming
-
-
-- 🥈 CodeChef Problem Solver Silver Badge
-- 🔥 451+ Problems Solved on CodeChef
-- 💻 20+ Problems Solved on LeetCode
-
-
----
-
-# 🚀 Featured Projects
-
-
-## 🛡 VisionGuard AI
-
-AI-based workplace safety monitoring concept.
-
-**Tech Stack**
-
-```
-Python • Machine Learning Basics
-```
-
-
----
-
-## 🌐 Student Community Portal
-
-A platform for students to collaborate and share resources.
-
-**Tech Stack**
-
-```
-HTML • CSS • JavaScript
-```
-
-
----
-
-## 🧾 Handwritten Invoice Extraction
-
-Document processing project using Python.
-
-**Tech Stack**
-
-```
-Python • OCR Concepts
-```
-
-
----
-
-# 📈 GitHub Activity Graph
-
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjiv-18&theme=tokyo-night&hide_border=true">
-
-</p>
-
-
----
-
-<p align="center">
-
-"Turning ideas into code and building solutions that create impact."
-
-</p>
+<p align="center"><i>Turning ideas into code — and code into products that ship.</i></p>

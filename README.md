@@ -1,5 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=180&section=header&text=Hi,%20I'm%20Sanjiv%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sanjiv+%F0%9F%91%8B;B.Tech+Artificial+Intelligence+%26+Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&repeat=true&lines=B.Tech+AI+%26+Data+Science;Building+Multi-Agent+AI+Systems;Patent+Holder+%F0%9F%93%84" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -50,6 +52,16 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanjiv-18/sanjiv-18/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+> ℹ️ This animates automatically once you add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo — it redraws your contribution graph as a snake eating your commits.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -64,3 +76,5 @@
 ---
 
 <p align="center"><i>Turning ideas into code, one project at a time.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=100&section=footer" width="100%"/>

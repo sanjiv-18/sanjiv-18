@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sanjiv 👋</h1>
-<h3 align="center">AI & Data Science Undergrad · Building Agentic Systems & Full-Stack Products</h3>
+<h3 align="center">B.Tech Artificial Intelligence & Data Science Student</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sanjivv"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -10,24 +10,24 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech, Artificial Intelligence & Data Science — Bannari Amman Institute of Technology, Sathyamangalam
-- 📄 **Patent filed:** AI-Based Smart Irrigation and Nutrient Management System
-- 🤖 Building **multi-agent AI pipelines** — patent research automation, hackathon mentoring, software testing & bug triage
-- 🧠 Working across **computer vision (YOLO)**, **RAG systems (ChromaDB)**, and **agentic architectures**
-- 🏆 Active hackathon builder — HackZen, Tech Nova, FOSS Open Hack, and institutional GP Challenge/IIC initiatives
-- 🌱 Currently deepening my work on autonomous multi-agent systems and production-grade full-stack apps
+- 🎓 B.Tech student in Artificial Intelligence & Data Science at Bannari Amman Institute of Technology
+- 📄 Co-inventor on a filed patent: AI-Based Smart Irrigation and Nutrient Management System
+- 🤖 Learning the basics of AI/ML, and applying them through academic and hackathon projects
+- 🌐 Comfortable with the fundamentals of frontend and backend development
+- 🤝 Enjoy working in teams — through hackathons, coursework, and institutional initiatives (IIC/GP Challenge)
+- 📚 Still learning and building — always open to feedback and collaboration
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**Frontend basics:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-**Backend & Data:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**Backend basics:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
-**AI/ML:** ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) YOLOv8 · ChromaDB (RAG) · Anthropic Claude API · TF-IDF / Prior-Art Search
+**AI/ML basics:** ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) Machine learning fundamentals · exploring computer vision and RAG concepts
 
 **Tools:** ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
@@ -35,15 +35,11 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🧠 **Agentic Patent/Research Assistant** | Four-agent pipeline — Prior Art Search → Novelty Diff → Claim Drafter → Examiner Simulator — with live SSE progress streaming | Node.js, TypeScript, Express, Claude API, PatentsView, React |
-| 🐛 **Multi-Agent Software Testing & Bug Analysis Platform** | Collaborative platform for automated test analysis with role-based access and JWT auth | React, Vite, Node.js, Express |
-| 💬 **AskBIT / CampusIQ** | RAG-powered FAQ chatbot for campus queries, built offline-first with a calibrated confidence threshold | FastAPI, ChromaDB, SQLite, TF-IDF, React |
-| 🛡 **VisionGuard AI** | Real-time workplace safety monitoring with a continuous five-factor dynamic risk score | Python, YOLOv8 |
-| 📚 **LearnForge AI** | Large-scale adaptive learning platform driven by a custom "Knowledge Twin" algorithm | FastAPI, JWT, SQLAlchemy, React, ChromaDB |
-| 🌐 **Constellation** | Full-stack student community tracking portal — built Event & Collaboration Management modules | Node.js, Express, MongoDB, React, TypeScript |
-| 🌾 **AI-Based Smart Irrigation System** | Patent-filed system for automated irrigation and nutrient management | Python, ML |
+| Project | Description |
+|---|---|
+| 💬 **AskBIT / CampusIQ** | A campus FAQ chatbot project built as part of a hackathon team |
+| 🌐 **Student Community Portal** | A platform for students to collaborate and share resources |
+| 🌾 **AI-Based Smart Irrigation System** | Patent-filed concept for automated irrigation and nutrient management |
 
 ---
 
@@ -66,4 +62,4 @@
 
 ---
 
-<p align="center"><i>Turning ideas into code — and code into products that ship.</i></p>
+<p align="center"><i>Turning ideas into code, one project at a time.</i></p>

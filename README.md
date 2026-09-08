@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Sanjiv 👋</h1>
-<h3 align="center">B.Tech Artificial Intelligence & Data Science Student</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sanjiv+%F0%9F%91%8B;B.Tech+Artificial+Intelligence+%26+Data+Science" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/sanjivv"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

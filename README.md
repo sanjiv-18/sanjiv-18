@@ -1,80 +1,178 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=180&section=header&text=Hi,%20I'm%20Sanjiv%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&repeat=true&lines=B.Tech+AI+%26+Data+Science;Building+Multi-Agent+AI+Systems;Patent+Holder+%F0%9F%93%84" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&animation=fadeIn"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/sanjivv"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/sanjiv-18"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Sanjiv+V" alt="Typing SVG - name"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2500&pause=700&color=9CA3AF&center=true&vCenter=true&width=650&height=40&lines=Computer+Science+Student;Exploring+AI+%26+Machine+Learning;Building+Real-World+Software" alt="Typing SVG - roles"/>
 
-### 🚀 About Me
+<br/>
 
-- 🎓 B.Tech student in Artificial Intelligence & Data Science at Bannari Amman Institute of Technology
-- 📄 Co-inventor on a filed patent: AI-Based Smart Irrigation and Nutrient Management System
-- 🤖 Learning the basics of AI/ML, and applying them through academic and hackathon projects
-- 🌐 Comfortable with the fundamentals of frontend and backend development
-- 🤝 Enjoy working in teams — through hackathons, coursework, and institutional initiatives (IIC/GP Challenge)
-- 📚 Still learning and building — always open to feedback and collaboration
+<a href="https://github.com/sanjiv-18"><img src="https://img.shields.io/badge/-sanjiv--18-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0d1117"/></a>
+<a href="https://www.linkedin.com/in/sanjivv"><img src="https://img.shields.io/badge/-sanjivv-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0d1117"/></a>
+<img src="https://komarev.com/ghpvc/?username=sanjiv-18&label=Profile+Views&color=0d1117&style=for-the-badge" alt="Profile views"/>
 
----
+<br/><br/>
 
-### 🛠 Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=3&section=header&width=100%25"/>
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+</div>
 
-**Frontend basics:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+<br/>
 
-**Backend basics:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+## About Me
 
-**AI/ML basics:** ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) Machine learning fundamentals · exploring computer vision and RAG concepts
+I'm a Computer Science student with a strong interest in Artificial Intelligence, Machine Learning, and Software Development. I enjoy solving problems and building real-world applications that combine clean engineering with practical impact.
 
-**Tools:** ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+I'm currently focused on strengthening my programming fundamentals, data structures and algorithms, and core machine learning concepts, while working on projects that let me apply what I learn in practical settings.
 
----
+- Computer Science student open to internship and placement opportunities
+- Co-inventor on a filed patent for an AI-based smart irrigation and nutrient management system
+- Actively exploring AI, Machine Learning, and Software Development
+- Comfortable with the fundamentals of both frontend and backend development
+- Enjoy working in teams through hackathons, coursework, and institutional initiatives
+- Continuously improving programming, DSA, and ML fundamentals
 
-### 🚀 Featured Projects
+<br/>
 
-| Project | Description |
-|---|---|
-| 💬 **AskBIT / CampusIQ** | A campus FAQ chatbot project built as part of a hackathon team |
-| 🌐 **Student Community Portal** | A platform for students to collaborate and share resources |
-| 🌾 **AI-Based Smart Irrigation System** | Patent-filed concept for automated irrigation and nutrient management |
+## Technical Skills
 
----
+<div align="center">
 
-### 🧩 Competitive Programming
+**Programming Languages**
 
-🥈 CodeChef Problem Solver (Silver) · 🔥 451+ problems solved on CodeChef · 💻 20+ problems solved on LeetCode
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" /><br/><br/>
 
----
+**Web Technologies**
 
-### 🐍 Contribution Snake
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /><br/><br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanjiv-18/sanjiv-18/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
+**Backend Basics**
 
-> ℹ️ This animates automatically once you add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo — it redraws your contribution graph as a snake eating your commits.
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /><br/><br/>
 
----
+**Tools & Platforms**
 
-### 📊 GitHub Stats
+<img src="https://skillicons.dev/icons?i=github,git,vscode&theme=dark" />
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjiv-18&show_icons=true&theme=radical"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjiv-18&theme=radical"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjiv-18&theme=react-dark"/>
-</p>
+<br/>
 
----
+**AI & Data Science**
 
-<p align="center"><i>Turning ideas into code, one project at a time.</i></p>
+<img src="https://img.shields.io/badge/-Machine%20Learning%20Basics-0d1117?style=flat-square&labelColor=0d1117&color=58A6FF"/> <img src="https://img.shields.io/badge/-Python%20for%20Data%20Analysis-0d1117?style=flat-square&labelColor=0d1117&color=58A6FF"/> <img src="https://img.shields.io/badge/-NumPy-0d1117?style=flat-square&labelColor=0d1117&color=58A6FF&logo=numpy&logoColor=58A6FF"/> <img src="https://img.shields.io/badge/-Data%20Processing%20Basics-0d1117?style=flat-square&labelColor=0d1117&color=58A6FF"/> <img src="https://img.shields.io/badge/-Statistical%20Concepts-0d1117?style=flat-square&labelColor=0d1117&color=58A6FF"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=100&section=footer" width="100%"/>
+<br/>
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### VisionGuard AI
+AI-based workplace safety monitoring concept built around computer vision techniques to help identify potential safety risks in a work environment.
+
+**Tech Stack:** Python, Machine Learning Basics
+
+</td>
+<td width="50%" valign="top">
+
+### Student Community Portal
+A web platform designed to help students connect, stay informed, and engage with their community through a simple and accessible interface.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Handwritten Invoice Extraction
+An AI-based document processing project focused on extracting structured data from handwritten invoices using OCR concepts.
+
+**Tech Stack:** Python, OCR Concepts
+
+</td>
+<td width="50%" valign="top">
+
+### CampusIQ (AskBIT)
+A campus FAQ chatbot built as part of a hackathon team, designed to answer common student queries.
+
+**Tech Stack:** Python, JavaScript
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Competitive Programming
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### CodeChef
+- 451+ Problems Solved
+- Problem Solver — Silver Badge
+
+</td>
+<td width="50%" valign="top">
+
+### LeetCode
+- 20+ Problems Solved
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sanjiv-18&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjiv-18&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=sanjiv-18&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="70%"/>
+
+</div>
+
+<br/>
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjiv-18&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="95%"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/sanjiv-18/sanjiv-18/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Animated contribution snake"/>
+
+<sub>Animated snake — activates automatically once the workflow below runs (see setup note)</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"Turning ideas into code and building solutions that create impact."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+
+</div>
+
+<!--
+Setup note for the animated snake contribution graph:
+1. In your sanjiv-18/sanjiv-18 repo, add the file .github/workflows/snake.yml (provided separately).
+2. Push it to the main branch — GitHub Actions will run daily and generate the animated SVG
+   at the "output" branch automatically.
+3. The <img> tag above already points to the correct raw URL once that branch exists.
+-->

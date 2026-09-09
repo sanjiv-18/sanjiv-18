@@ -35,6 +35,12 @@ I'm currently focused on strengthening my programming fundamentals, data structu
 
 <br/>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=2&section=header&width=100%25&animation=fadeIn"/>
+</p>
+
+<br/>
+
 ## Technical Skills
 
 <div align="center">
@@ -62,6 +68,12 @@ I'm currently focused on strengthening my programming fundamentals, data structu
 **AI & Data Science**
 
 <img src="https://img.shields.io/badge/-Machine%20Learning%20Basics-0d1117?style=flat-square&labelColor=0d1117&color=58A6FF"/> <img src="https://img.shields.io/badge/-Python%20for%20Data%20Analysis-0d1117?style=flat-square&labelColor=0d1117&color=58A6FF"/> <img src="https://img.shields.io/badge/-NumPy-0d1117?style=flat-square&labelColor=0d1117&color=58A6FF&logo=numpy&logoColor=58A6FF"/> <img src="https://img.shields.io/badge/-Data%20Processing%20Basics-0d1117?style=flat-square&labelColor=0d1117&color=58A6FF"/> <img src="https://img.shields.io/badge/-Statistical%20Concepts-0d1117?style=flat-square&labelColor=0d1117&color=58A6FF"/>
+
+<br/>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=2&section=header&width=100%25&animation=fadeIn"/>
+</p>
 
 <br/>
 
@@ -108,6 +120,12 @@ A campus FAQ chatbot built as part of a hackathon team, designed to answer commo
 
 <br/>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=2&section=header&width=100%25&animation=fadeIn"/>
+</p>
+
+<br/>
+
 ## Competitive Programming
 
 <table>
@@ -130,26 +148,17 @@ A campus FAQ chatbot built as part of a hackathon team, designed to answer commo
 
 <br/>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=2&section=header&width=100%25&animation=fadeIn"/>
+</p>
+
+<br/>
+
 ## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanjiv-18&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjiv-18&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=sanjiv-18&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="70%"/>
-
-</div>
-
-<br/>
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjiv-18&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="95%"/>
 
 </div>
 

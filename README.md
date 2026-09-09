@@ -151,12 +151,6 @@ A campus FAQ chatbot built as part of a hackathon team, designed to answer commo
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjiv-18&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="95%"/>
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/sanjiv-18/sanjiv-18/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Animated contribution snake"/>
-
-<sub>Animated snake — activates automatically once the workflow below runs (see setup note)</sub>
-
 </div>
 
 <br/>
@@ -168,11 +162,3 @@ A campus FAQ chatbot built as part of a hackathon team, designed to answer commo
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 
 </div>
-
-<!--
-Setup note for the animated snake contribution graph:
-1. In your sanjiv-18/sanjiv-18 repo, add the file .github/workflows/snake.yml (provided separately).
-2. Push it to the main branch — GitHub Actions will run daily and generate the animated SVG
-   at the "output" branch automatically.
-3. The <img> tag above already points to the correct raw URL once that branch exists.
--->
